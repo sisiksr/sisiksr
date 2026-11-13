@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ### Contact Me
 
-Email: echo 'czFzMWtzcmluQGdtYWlsLmNvbQ==' | base64 -d
+**Email**: echo 'czFzMWtzcmluQGdtYWlsLmNvbQ==' | base64 -d
