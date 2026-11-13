@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Contact Me
+
+Email: echo 'czFzMWtzcmluQGdtYWlsLmNvbQ==' | base64 -d
