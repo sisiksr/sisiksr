@@ -1,4 +1,4 @@
-I'm a PhD student now and My present interests are VLM/MLLM and post-training methods.
+I'm a PhD student now and my present interests are VLM/MLLM and post-training methods.
 
 ## Contact Me
 
