@@ -2,4 +2,4 @@ I'm a PhD student now and my present interests are VLM/MLLM and post-training me
 
 ## Contact
 
-**Email**: echo 'czFzMWtzcmluQGdtYWlsLmNvbQ==' | base64 -d
+- **Email**: echo 'czFzMWtzcmluQGdtYWlsLmNvbQ==' | base64 -d
